@@ -5,7 +5,7 @@ module.exports = {
 	description: "jn-design with vitePress",
 	// 打包目录
 	dest: "./jn-design",
-	base: "/jn-design/",
+	base: "/jn-design-deploy/",
 	// 头部head
 	head: [
 		// 添加图标
